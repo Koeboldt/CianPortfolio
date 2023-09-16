@@ -1,25 +1,52 @@
-
+:root{
+    --primaryColor:rgb(167, 122, 252) ;
+    --backColor: rgb(0, 0, 0);
+    --someWhite: rgb(255, 255, 255);
+}
 
 body{
-
-    font-size: 16px;
-  display: flex;
-  flex-direction: column;
-  min-height: 100vh;
-  justify-content: flex-start;
+    background-color:var(--backColor);
+    display: block;
+    
 }
-
 header {
-
-
-    border: 1px;
-    border-color: red;
-    margin: 10 px
+    background-color: var(--primaryColor);
+    color: var(--someWhite);
+    margin: 19px;
+    padding: 23px;
 
 }
 
-h1 {
-    font-size: 200%;
-    color: black;
+header h1 {
+    display: inline-block;
+    font-size: 51px;
+}
 
+header nav{
+    float: right;
+    padding-top: 19px;
+    margin-right: 19px;
+    
+}
+
+header nav ul li{
+display: inline-block;
+font-size: 23px;
+margin-left: 23px;
+}
+
+main{
+    background-color: white;
+    margin: 11px;
+    padding: 11px;
+}
+
+h2{
+width: 11%;
+padding: 19px;
+display: block;
+}
+
+main article{
+width: 89%;
 }
