@@ -13,8 +13,8 @@ To use my portfolio website, just click on the project you'd like to view and cl
 
 ## Credits
 
-The Whole Bootcamp Class~ they gave me advice and helped me format it so it works well, general guidance provided from the instructors and Matt K..
-https://www.w3docs.com/snippets/css/how-to-make-a-div-a-clickable-link.html~ code taken from here to make my images able to be clicked on to link to the other landing pages.
+### The Whole Bootcamp Class~ they gave me advice and helped me format it so it works well, general guidance provided from the instructors and Matt K..
+### https://www.w3docs.com/snippets/css/how-to-make-a-div-a-clickable-link.html~ code taken from here to make my images able to be clicked on to link to the other landing pages.
 
 ## License
 
