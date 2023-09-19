@@ -9,7 +9,7 @@ N/A
 
 ## Usage
 
-###https://koeboldt.github.io/CianPortfolio/
+### https://koeboldt.github.io/CianPortfolio/
 To use my portfolio website, just click on the project you'd like to view and click on it, that will take you to the projects landing page. You can also view my contact information at the bottom, which features a link to my GitHub and socials.
 
 ## Credits
